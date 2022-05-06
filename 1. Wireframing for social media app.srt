@@ -1,0 +1,151 @@
+1
+00:00:00,120 --> 00:00:00,810
+Welcome back.
+
+2
+00:00:00,990 --> 00:00:01,470
+Welcome.
+
+3
+00:00:01,830 --> 00:00:08,490
+So, Raghu, tasked to create a social media app, so I know some might completed that task.
+
+4
+00:00:08,670 --> 00:00:11,850
+So in this video, I'm going to create my vision for it.
+
+5
+00:00:12,720 --> 00:00:13,830
+Let's create a new design while.
+
+6
+00:00:16,790 --> 00:00:18,200
+Okay, let's rename it.
+
+7
+00:00:20,370 --> 00:00:27,540
+So increasingly, I told you you can use like an iPhone frame or if you want to make a web application,
+
+8
+00:00:27,540 --> 00:00:28,270
+you can do that.
+
+9
+00:00:28,290 --> 00:00:30,610
+So for this project, I'm going to give it next door.
+
+10
+00:00:30,900 --> 00:00:33,060
+So let's first create a wire frame for it.
+
+11
+00:00:35,800 --> 00:00:42,160
+So in this section, we are going to have a groups like WhatsApp groups.
+
+12
+00:00:43,950 --> 00:00:50,610
+And in this situation, we are going to make personal messages.
+
+13
+00:00:51,660 --> 00:00:55,050
+And over here we are going to a chats.
+
+14
+00:01:12,500 --> 00:01:18,470
+So in this panel, we are going to have things like Home Chad setting the bell notification and the
+
+15
+00:01:18,470 --> 00:01:19,150
+power button.
+
+16
+00:01:22,610 --> 00:01:28,880
+Let's say the user is currently on the Charge six, and so the user will know from this bot, the user
+
+17
+00:01:28,880 --> 00:01:30,440
+will know he's in charge section.
+
+18
+00:01:31,310 --> 00:01:36,620
+OK, so this is going to be our group, so let's add some texture for you.
+
+19
+00:01:38,220 --> 00:01:42,300
+OK, so in this election, we are going to add a group, so let's take it over here.
+
+20
+00:01:44,600 --> 00:01:49,400
+And in this section, we are going to have a message from Postman's.
+
+21
+00:01:51,000 --> 00:01:57,990
+And over here, we are going to have like a message from a group or message from personal.
+
+22
+00:01:59,910 --> 00:02:01,530
+Much like Rachel.
+
+23
+00:02:02,990 --> 00:02:10,040
+I had a call button over here, and, uh, it's also earned a video call button.
+
+24
+00:02:13,700 --> 00:02:22,010
+OK, I'm less clear that that works going, OK, listen, the color of the.
+
+25
+00:02:24,240 --> 00:02:26,250
+And over here, we are going to add.
+
+26
+00:02:27,310 --> 00:02:33,150
+I'm Michael, for local, and in this section, we are going to have some charts.
+
+27
+00:02:39,720 --> 00:02:44,100
+OK, so remaining things like iron of paperclip.
+
+28
+00:02:51,600 --> 00:02:55,380
+So in groups, we are going to hell like the small groups.
+
+29
+00:02:56,760 --> 00:03:00,960
+Groups from like your school or other individual groups for friends.
+
+30
+00:03:03,130 --> 00:03:11,650
+OK, and also in the person's personal, you can get messages from your friends or your teacher or your
+
+31
+00:03:11,650 --> 00:03:13,360
+colleagues like that.
+
+32
+00:03:14,410 --> 00:03:18,100
+So this is going to be our world frame for this project.
+
+33
+00:03:19,000 --> 00:03:21,310
+So this is how my vision is going to look like.
+
+34
+00:03:22,090 --> 00:03:24,760
+So I know you might be done in a different way.
+
+35
+00:03:25,330 --> 00:03:29,020
+So I took inspiration from like WhatsApp and Discord from to application.
+
+36
+00:03:29,500 --> 00:03:33,730
+So in the next word, I'm going to design a UI for our social media app.
+
+37
+00:03:34,360 --> 00:03:35,530
+So that's me signing off.
+
+38
+00:03:35,560 --> 00:03:37,900
+Thanks for watching, and I will see you guys in the next one.

@@ -1,0 +1,1047 @@
+1
+00:00:00,120 --> 00:00:04,500
+Welcome back, so impressively, we made this wireframe for our social media app.
+
+2
+00:00:04,920 --> 00:00:09,510
+So in this video, we are going to make the actual UI for that.
+
+3
+00:00:10,290 --> 00:00:15,930
+I think I have to remember the name this wire frame, so I will only this is the wire from.
+
+4
+00:00:20,530 --> 00:00:32,110
+OK, let's choose a frame that is going to be our next door and the rectangle on the and just to center
+
+5
+00:00:32,530 --> 00:00:33,190
+on this.
+
+6
+00:00:35,540 --> 00:00:36,200
+Is foreign.
+
+7
+00:00:52,510 --> 00:01:01,270
+OK, so you can see the all corners are sharp, so let's make them all around or chipped and select
+
+8
+00:01:01,270 --> 00:01:01,900
+them all.
+
+9
+00:01:02,920 --> 00:01:05,020
+Let's crank up to like 20.
+
+10
+00:01:06,790 --> 00:01:11,320
+Oh, sorry, I accidentally use this traditional tool.
+
+11
+00:01:12,540 --> 00:01:16,660
+I have to use the corner radius, so it is most frequently, OK.
+
+12
+00:01:19,470 --> 00:01:22,310
+There's the background color of this frame.
+
+13
+00:01:22,380 --> 00:01:23,580
+It's a bit gray.
+
+14
+00:01:28,700 --> 00:01:34,730
+Look, watch a little bit, and let's make them all a white.
+
+15
+00:01:36,930 --> 00:01:39,300
+Look at this and add a drop shadow.
+
+16
+00:01:40,540 --> 00:01:46,630
+OK, and it's in the color thing to like, which bluish.
+
+17
+00:01:48,600 --> 00:01:51,630
+So it totally depends on you which color you want to use.
+
+18
+00:01:52,740 --> 00:02:01,950
+So let's say for working on air and you don't know like what color to use, then you can use this website
+
+19
+00:02:01,950 --> 00:02:03,240
+called Color Hunt.
+
+20
+00:02:03,870 --> 00:02:07,170
+And in this website, you will get lots of color ballots like this one.
+
+21
+00:02:08,130 --> 00:02:10,560
+So for this project, I'm going to use this color palette.
+
+22
+00:02:11,600 --> 00:02:16,790
+So I really don't read it, so I'm going to just drag it on my figma project.
+
+23
+00:02:20,590 --> 00:02:22,540
+I think this one.
+
+24
+00:02:23,540 --> 00:02:25,400
+So let's try this one.
+
+25
+00:02:27,160 --> 00:02:35,230
+So for this section, I'm going to choose, say, this column.
+
+26
+00:02:37,120 --> 00:02:39,310
+It will argue like that this white.
+
+27
+00:02:42,520 --> 00:02:43,130
+OK.
+
+28
+00:02:43,210 --> 00:02:48,100
+And let's add a profile logo or you.
+
+29
+00:03:00,010 --> 00:03:03,790
+OK, now it is time to earn our icons like Go.
+
+30
+00:03:07,070 --> 00:03:10,610
+Let me see if I can.
+
+31
+00:03:10,970 --> 00:03:15,800
+We get like two of them, like this round on all this square one for this project.
+
+32
+00:03:16,010 --> 00:03:16,850
+I'm going to use this one.
+
+33
+00:03:17,030 --> 00:03:21,170
+So it totally depends on your office searching.
+
+34
+00:03:22,590 --> 00:03:29,580
+Setting and home also, we are on this call.
+
+35
+00:03:32,580 --> 00:03:33,100
+You.
+
+36
+00:03:34,730 --> 00:03:35,400
+Logo.
+
+37
+00:03:37,590 --> 00:03:42,690
+So for now, I'm important this icons or less and then one of my one.
+
+38
+00:03:43,830 --> 00:03:46,050
+So first of all, let's make them a little bit bigger.
+
+39
+00:03:47,010 --> 00:03:48,630
+So, you know, I use like 30 for.
+
+40
+00:03:48,840 --> 00:03:50,910
+So let's make it up to 40.
+
+41
+00:03:52,130 --> 00:03:57,070
+So it will look more better or more interesting.
+
+42
+00:03:58,610 --> 00:04:01,430
+I think I have to change the color of it, let's make it right.
+
+43
+00:04:04,030 --> 00:04:08,670
+OK, go to selection and let's make them light, so.
+
+44
+00:04:09,460 --> 00:04:11,980
+This is not selected, so that's my point.
+
+45
+00:04:12,790 --> 00:04:14,320
+OK, let's entertain one by one.
+
+46
+00:04:16,360 --> 00:04:18,040
+And now it is going to be over here.
+
+47
+00:04:19,380 --> 00:04:21,420
+You know, he's going to be asked to call.
+
+48
+00:04:23,050 --> 00:04:25,030
+And she's going to be.
+
+49
+00:04:26,750 --> 00:04:28,130
+Checked and sitting.
+
+50
+00:04:30,170 --> 00:04:31,130
+In this them.
+
+51
+00:04:33,520 --> 00:04:39,270
+Hold shift, select them all and R&amp;D center.
+
+52
+00:04:39,310 --> 00:04:40,510
+Alan, what is interesting this?
+
+53
+00:04:42,290 --> 00:04:44,150
+Let's and spacing.
+
+54
+00:04:46,480 --> 00:04:48,580
+OK, so our spacing also.
+
+55
+00:04:49,580 --> 00:04:51,250
+Oculus earned a profile.
+
+56
+00:04:53,480 --> 00:04:56,690
+Click on Go to ship to the image.
+
+57
+00:04:57,980 --> 00:05:01,160
+So let's chew like this property.
+
+58
+00:05:02,310 --> 00:05:04,930
+OK, let's place it on this logo.
+
+59
+00:05:05,010 --> 00:05:08,430
+You can see in this place now and also look perfect.
+
+60
+00:05:09,180 --> 00:05:10,500
+So this early stroke?
+
+61
+00:05:12,650 --> 00:05:19,500
+So we totally depends on you, if you want to add stroke, you can or you can live as it, it's like
+
+62
+00:05:19,500 --> 00:05:19,800
+this.
+
+63
+00:05:20,740 --> 00:05:26,670
+OK, one thing is something that so we are in currently jurisdiction, so it's clear that.
+
+64
+00:05:28,660 --> 00:05:29,520
+Rectangle.
+
+65
+00:05:32,460 --> 00:05:34,020
+You're listing the color of it.
+
+66
+00:05:34,740 --> 00:05:36,660
+I'm going to use this for it.
+
+67
+00:05:38,230 --> 00:05:40,570
+And to look at this one.
+
+68
+00:05:45,400 --> 00:05:49,240
+And listing the color of it into this one.
+
+69
+00:05:50,890 --> 00:05:53,160
+Let's bring that message sort of calling to front.
+
+70
+00:05:54,700 --> 00:06:00,190
+Click on it and link to front, are you going to use that right square bracket or shortcut?
+
+71
+00:06:00,490 --> 00:06:04,000
+OK, so if I like zoom out, you can see.
+
+72
+00:06:05,200 --> 00:06:05,800
+It looks.
+
+73
+00:06:07,070 --> 00:06:11,390
+OK, so user will know he's in this jurisdiction.
+
+74
+00:06:13,790 --> 00:06:14,270
+Like this?
+
+75
+00:06:15,110 --> 00:06:19,100
+OK, so let's make a group text audio.
+
+76
+00:06:22,330 --> 00:06:24,670
+OK, Alison, antiseptics, thanks.
+
+77
+00:06:24,910 --> 00:06:25,470
+Oh, sorry.
+
+78
+00:06:26,350 --> 00:06:31,210
+To six, I want to make one or so misspellings.
+
+79
+00:06:33,100 --> 00:06:34,240
+So let's change the font.
+
+80
+00:06:35,230 --> 00:06:37,210
+I like the font popping.
+
+81
+00:06:38,500 --> 00:06:43,090
+And let's make it bolt like this.
+
+82
+00:06:45,220 --> 00:06:48,850
+Now this act or groups.
+
+83
+00:06:53,080 --> 00:07:00,610
+Girls are too attached, so let's say this is the group from your college.
+
+84
+00:07:04,100 --> 00:07:05,750
+Let's make it a regular.
+
+85
+00:07:07,090 --> 00:07:08,740
+I heard a line audio.
+
+86
+00:07:11,470 --> 00:07:12,000
+OK.
+
+87
+00:07:13,830 --> 00:07:14,860
+The digital.
+
+88
+00:07:16,930 --> 00:07:17,700
+And is it?
+
+89
+00:07:20,300 --> 00:07:25,610
+Like this, and I think I'm going to change the color of it, and we'll make it a bit like a green.
+
+90
+00:07:27,230 --> 00:07:27,800
+OK.
+
+91
+00:07:29,500 --> 00:07:29,790
+OK.
+
+92
+00:07:29,830 --> 00:07:30,400
+Like this one?
+
+93
+00:07:31,150 --> 00:07:34,990
+So let's say someone dropped the message or something like.
+
+94
+00:07:38,670 --> 00:07:40,770
+Let's stick with the font size up to like four.
+
+95
+00:07:45,250 --> 00:07:45,820
+Like this?
+
+96
+00:07:49,770 --> 00:07:51,720
+Careless at the time.
+
+97
+00:07:53,130 --> 00:08:02,430
+So you will know when this message is delivered, what he got from someone.
+
+98
+00:08:05,020 --> 00:08:07,570
+A on 30.
+
+99
+00:08:08,470 --> 00:08:12,010
+At 8.30, he got a message from that group.
+
+100
+00:08:12,830 --> 00:08:14,140
+So let's change the.
+
+101
+00:08:16,520 --> 00:08:17,300
+OK, just make it up.
+
+102
+00:08:18,260 --> 00:08:18,580
+OK.
+
+103
+00:08:19,610 --> 00:08:21,080
+I think I may made up collecting.
+
+104
+00:08:22,740 --> 00:08:23,740
+And he told him.
+
+105
+00:08:25,620 --> 00:08:32,730
+Let's make it a group song because we are going to use this thing multiple times.
+
+106
+00:08:33,480 --> 00:08:35,490
+Press control to make them a group.
+
+107
+00:08:36,660 --> 00:08:37,770
+And this copy?
+
+108
+00:08:39,230 --> 00:08:40,190
+This stinks.
+
+109
+00:08:44,590 --> 00:08:55,780
+And I said just this ongoing episode like this, all of them, and it's legitimate upvotes like this,
+
+110
+00:08:56,290 --> 00:08:58,060
+and you can tune that time of it.
+
+111
+00:08:58,870 --> 00:09:02,530
+And also the name of their group as team.
+
+112
+00:09:03,190 --> 00:09:07,030
+This is like up to like seven point twenty one.
+
+113
+00:09:13,360 --> 00:09:22,330
+So let's copy this exactly the same thing on our personal section also.
+
+114
+00:09:22,660 --> 00:09:23,030
+All right.
+
+115
+00:09:23,110 --> 00:09:24,090
+You forgot to hold.
+
+116
+00:09:30,250 --> 00:09:30,960
+Like this?
+
+117
+00:09:31,750 --> 00:09:38,980
+OK, so first of all, listing the group name over here, let's say you have a list of all gamers.
+
+118
+00:09:40,800 --> 00:09:44,160
+And in the school group, nursing students.
+
+119
+00:09:49,200 --> 00:09:53,640
+So less added image on these two groups action subject to less image.
+
+120
+00:09:59,080 --> 00:10:04,390
+OK, so first one is the first images of our council, so I'm going to air this, imagine two cameras.
+
+121
+00:10:05,470 --> 00:10:07,510
+Second, when it's like students.
+
+122
+00:10:08,710 --> 00:10:12,750
+And let's say the imaginary students are programmers, so I'm glad were here.
+
+123
+00:10:13,840 --> 00:10:18,670
+So I think it does not make sense for this image, so I'm going to add over here.
+
+124
+00:10:19,960 --> 00:10:24,130
+So I think for Remercier to choose a different image.
+
+125
+00:10:25,680 --> 00:10:30,420
+Let's see our rumors out of the fan of Marvel saw him when I heard that Marvel image.
+
+126
+00:10:32,890 --> 00:10:39,910
+Let's say they are fired up like Loki, so soulless, add the look you make you look like this.
+
+127
+00:10:40,930 --> 00:10:45,490
+Let's say you edited the image, but the image is like not blessed very well, so you can double click
+
+128
+00:10:45,490 --> 00:10:54,670
+on it, go to film, select the image and you can choose a crop top and just that image.
+
+129
+00:10:55,060 --> 00:11:00,250
+Or you can like movies like this and cancel this one.
+
+130
+00:11:00,250 --> 00:11:00,850
+So.
+
+131
+00:11:01,990 --> 00:11:05,270
+The images placed now the message audio.
+
+132
+00:11:06,430 --> 00:11:08,320
+So I'm going to add some emojis.
+
+133
+00:11:08,890 --> 00:11:14,410
+I think in windows the shortcut is for images is Windows Plus or donkey?
+
+134
+00:11:15,450 --> 00:11:26,520
+So it will open the emoji panel audio so you can add emojis like this once again, as Anderson is saying.
+
+135
+00:11:27,950 --> 00:11:28,860
+I think this.
+
+136
+00:11:30,780 --> 00:11:38,700
+And over here, I'm going to parents and I'm like this.
+
+137
+00:11:41,930 --> 00:11:46,070
+So it totally depends on who you can like and do what you want.
+
+138
+00:11:46,880 --> 00:11:48,200
+So we are done with our group.
+
+139
+00:11:48,560 --> 00:11:51,080
+So let's say the name of this girl is the Rachel.
+
+140
+00:11:53,930 --> 00:12:01,640
+Like, I'm a big fan of like friends, so that's why I did this animal is ritual, so you can earn whatever
+
+141
+00:12:01,640 --> 00:12:06,320
+you want, even already wear name or next name, it totally depends on you.
+
+142
+00:12:11,740 --> 00:12:15,300
+And the last one is going to be childbirth.
+
+143
+00:12:17,510 --> 00:12:22,100
+So take a look at some random text.
+
+144
+00:12:29,250 --> 00:12:39,090
+OK, so I did some random text over you, so like I have written the time, and so I think the message
+
+145
+00:12:39,090 --> 00:12:43,740
+from Rachel at eight 46.
+
+146
+00:12:49,230 --> 00:12:51,200
+So let's add image audio.
+
+147
+00:12:53,260 --> 00:12:55,570
+People have told this image.
+
+148
+00:13:01,970 --> 00:13:03,770
+OK, so images blessed now.
+
+149
+00:13:05,480 --> 00:13:13,460
+So in this section, we are going to be checked as well as copy this one.
+
+150
+00:13:15,780 --> 00:13:19,500
+Or out on the water section.
+
+151
+00:13:20,880 --> 00:13:23,880
+OK, so you can see the problem here.
+
+152
+00:13:24,000 --> 00:13:29,670
+So I copied this group, but the group is not visible, so I have to text again.
+
+153
+00:13:36,690 --> 00:13:38,550
+And the simple rectangle.
+
+154
+00:13:40,300 --> 00:13:40,840
+Over here.
+
+155
+00:13:42,950 --> 00:13:46,640
+I understand the color of beetroot like this, but one.
+
+156
+00:13:48,930 --> 00:13:53,580
+And the concern is going to be 20.
+
+157
+00:13:55,490 --> 00:13:57,140
+So let's make it a little bit bigger.
+
+158
+00:14:01,630 --> 00:14:03,190
+So let's add, Rachel, over here.
+
+159
+00:14:03,350 --> 00:14:10,710
+What if I like drag it over here, it is going to be add back, so we have to bring this at front or
+
+160
+00:14:10,720 --> 00:14:13,900
+click on it and choose bring to front.
+
+161
+00:14:14,070 --> 00:14:15,640
+And now let's split it over here.
+
+162
+00:14:17,780 --> 00:14:18,180
+OK.
+
+163
+00:14:18,830 --> 00:14:24,380
+So we have to make some changes or here like this at a stroke.
+
+164
+00:14:30,520 --> 00:14:31,570
+It's made of quite.
+
+165
+00:14:34,340 --> 00:14:37,250
+This change to the point.
+
+166
+00:14:39,120 --> 00:14:47,680
+Also in the corner of the text is going to be white and also increase the font size on a saying up to
+
+167
+00:14:47,920 --> 00:14:48,380
+24.
+
+168
+00:14:49,640 --> 00:14:52,010
+And currently she's online.
+
+169
+00:14:55,210 --> 00:14:56,650
+And we have got him on this one.
+
+170
+00:14:59,850 --> 00:15:01,200
+The system on this line.
+
+171
+00:15:04,810 --> 00:15:13,840
+Looking forward to do so, we have to some some consortium that is going to be out on the call and will
+
+172
+00:15:13,840 --> 00:15:19,990
+be able to flex and dragged it over here and the color of this background is white and also the color
+
+173
+00:15:19,990 --> 00:15:21,400
+of their tyquan is white.
+
+174
+00:15:22,630 --> 00:15:23,790
+So it is not visible.
+
+175
+00:15:23,800 --> 00:15:30,520
+So let's bring it into front to front, and let's check it out here.
+
+176
+00:15:33,060 --> 00:15:33,880
+OK?
+
+177
+00:15:35,110 --> 00:15:35,510
+Forty.
+
+178
+00:15:38,140 --> 00:15:43,510
+And this visit here, and I think I also tracked video one.
+
+179
+00:15:45,550 --> 00:15:46,660
+OK, so this year.
+
+180
+00:15:48,070 --> 00:15:57,590
+This is bringing bring to front, OK, this island is rich and poor and working.
+
+181
+00:15:59,250 --> 00:16:05,850
+So it is, Orlando, you might see in that three minutes or so in icon, we don't have that many, so
+
+182
+00:16:05,850 --> 00:16:09,390
+we have to create it manually by using three ellipses.
+
+183
+00:16:09,540 --> 00:16:10,760
+So let's clear that.
+
+184
+00:16:12,830 --> 00:16:15,200
+It's clear to them and it's like this.
+
+185
+00:16:20,070 --> 00:16:25,650
+I think we have to make it a bit smaller, so connected to $11, maybe like a billion or eight.
+
+186
+00:16:27,850 --> 00:16:41,020
+OK, so we didn't know when all this audio, so first, let's make it look like I'm 20, so it is going
+
+187
+00:16:41,020 --> 00:16:43,570
+to be easier to move from one place to another.
+
+188
+00:16:44,350 --> 00:16:48,550
+OK, so Saturday morning is thanks to air jets.
+
+189
+00:16:49,450 --> 00:16:50,560
+So let's copy this one.
+
+190
+00:16:53,290 --> 00:16:54,730
+Oh, that's great.
+
+191
+00:16:57,830 --> 00:17:00,090
+I think I have undeclared Bennett.
+
+192
+00:17:01,110 --> 00:17:02,580
+There is no color on the color palette.
+
+193
+00:17:05,970 --> 00:17:07,350
+OK, so this gray color.
+
+194
+00:17:09,090 --> 00:17:09,560
+Done.
+
+195
+00:17:11,210 --> 00:17:12,300
+Let's make it smaller.
+
+196
+00:17:15,810 --> 00:17:16,910
+So let's create.
+
+197
+00:17:18,650 --> 00:17:18,930
+Might.
+
+198
+00:17:22,710 --> 00:17:22,980
+OK.
+
+199
+00:17:23,040 --> 00:17:23,610
+Like this.
+
+200
+00:17:24,090 --> 00:17:25,210
+Less important.
+
+201
+00:17:25,230 --> 00:17:26,340
+Mike Burton over here.
+
+202
+00:17:29,750 --> 00:17:33,170
+And I think I so forward that people like them.
+
+203
+00:17:36,520 --> 00:17:37,270
+What clip?
+
+204
+00:17:38,760 --> 00:17:39,750
+And the camera.
+
+205
+00:17:42,730 --> 00:17:44,920
+OK, so let's end with them.
+
+206
+00:17:46,230 --> 00:17:47,710
+I mean, first of all, let's.
+
+207
+00:17:49,230 --> 00:17:53,370
+Make it bigger like a collect call and also change the color of it.
+
+208
+00:17:53,760 --> 00:17:54,930
+Let's turn, let's make it.
+
+209
+00:17:57,210 --> 00:17:58,320
+Like this current.
+
+210
+00:18:00,960 --> 00:18:02,430
+OK, now we're going to.
+
+211
+00:18:04,510 --> 00:18:07,780
+Listed on this chart.
+
+212
+00:18:09,060 --> 00:18:09,640
+S..
+
+213
+00:18:10,150 --> 00:18:20,700
+Well, this is going to be here, and I think the bill is white and it's all here.
+
+214
+00:18:22,950 --> 00:18:24,720
+So they sense it first.
+
+215
+00:18:25,500 --> 00:18:26,010
+OK.
+
+216
+00:18:28,040 --> 00:18:29,990
+OK, let's align these things.
+
+217
+00:18:32,570 --> 00:18:38,030
+OK, so these things are Leno and early next door here.
+
+218
+00:18:42,190 --> 00:18:43,570
+Let type your message.
+
+219
+00:18:46,840 --> 00:18:48,190
+It's making it a bit bigger.
+
+220
+00:18:48,940 --> 00:18:50,200
+I think Connecticut is 14.
+
+221
+00:18:51,780 --> 00:18:53,460
+I think it is going to be fine.
+
+222
+00:18:55,050 --> 00:18:55,930
+OK, thank you.
+
+223
+00:18:55,960 --> 00:18:56,370
+Yes.
+
+224
+00:18:58,620 --> 00:19:05,520
+OK, so things are demeaning that only the so I search on the go to guard in this section.
+
+225
+00:19:06,060 --> 00:19:06,300
+What?
+
+226
+00:19:06,300 --> 00:19:10,170
+I don't find anything, so I'm going to add some random charts for you.
+
+227
+00:19:11,370 --> 00:19:14,190
+Let's say I recommended a game to a region.
+
+228
+00:19:20,700 --> 00:19:26,160
+Let's give the corner to the supply of 20 straight Polygon.
+
+229
+00:19:29,940 --> 00:19:30,360
+OK.
+
+230
+00:19:30,430 --> 00:19:33,900
+And just queue on the corner to disappear like, all right.
+
+231
+00:19:39,560 --> 00:19:43,500
+I think I have to change the color of it so that the color of which.
+
+232
+00:19:47,190 --> 00:19:48,180
+Okay, so.
+
+233
+00:19:49,200 --> 00:19:53,940
+So we just kind of look like this, or let's make a group of them so we can use it multiple times.
+
+234
+00:19:56,070 --> 00:19:58,430
+Or to select and control cheap.
+
+235
+00:20:00,750 --> 00:20:04,410
+The over here is arid text.
+
+236
+00:20:09,580 --> 00:20:11,530
+So let's make it simple.
+
+237
+00:20:11,920 --> 00:20:18,850
+And for 20, the difference on how we can use your other favorite font.
+
+238
+00:20:23,520 --> 00:20:24,690
+The center.
+
+239
+00:20:26,230 --> 00:20:29,830
+I think that it's like this on this mechanism, we're despondent.
+
+240
+00:20:35,040 --> 00:20:40,230
+So it has decreased the following sites a little bit smaller.
+
+241
+00:20:43,370 --> 00:20:43,690
+OK.
+
+242
+00:20:43,790 --> 00:20:47,330
+Like this, and we have to earn time.
+
+243
+00:20:49,610 --> 00:20:52,820
+So I'm going to copy this one folder and drag it over here.
+
+244
+00:20:57,070 --> 00:21:03,250
+So let's create another that section, I can copy this one, but.
+
+245
+00:21:05,890 --> 00:21:13,340
+But I want to do this Polygon do like a left side, so I have to create the new one.
+
+246
+00:21:13,370 --> 00:21:15,400
+That's why that's why I have to create a new one.
+
+247
+00:21:19,000 --> 00:21:20,860
+It's most in the cultural picture.
+
+248
+00:21:21,310 --> 00:21:24,240
+You can be like a guy with different color or you can like a.
+
+249
+00:21:25,740 --> 00:21:28,150
+Used to say one, so I'm going to disagree.
+
+250
+00:21:28,730 --> 00:21:28,910
+One.
+
+251
+00:21:31,780 --> 00:21:33,430
+And so the polygon.
+
+252
+00:21:50,160 --> 00:21:53,340
+So this is where I finished my social media project.
+
+253
+00:21:54,030 --> 00:21:59,460
+So I know it, you might get a different way or you took inspiration from different applications like
+
+254
+00:21:59,760 --> 00:22:00,690
+Facebook or Instagram.
+
+255
+00:22:02,100 --> 00:22:06,990
+So it totally depends on, you know, what just might look different or better than me.
+
+256
+00:22:07,230 --> 00:22:10,860
+So this isn't a single page application, so we are not going to use the prototype.
+
+257
+00:22:11,430 --> 00:22:14,740
+So if we had multiple pages like music apps, so.
+
+258
+00:22:15,260 --> 00:22:18,900
+So in that app, we had multiple pages, like four pages.
+
+259
+00:22:19,200 --> 00:22:21,430
+So that's why we connected those projects.
+
+260
+00:22:21,430 --> 00:22:22,680
+So this is a single page.
+
+261
+00:22:23,430 --> 00:22:25,690
+So this is how my social media app looks like.
+
+262
+00:22:25,710 --> 00:22:29,700
+So that's important, too, and I will see you guys in the next project.
